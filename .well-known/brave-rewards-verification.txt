@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: tvibhu.me
-Token: 775ecb92ae8810069d9d8e91dfa71fde886cb281b27eee1878195e44d870a466
