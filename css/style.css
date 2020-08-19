@@ -468,6 +468,15 @@ canvas{
     display: block
 }
 
+.skill-box{
+    border: 1px solid #53BFAB;
+    background: #53BFAB;
+    color: #fff;
+    padding: .5rem;
+    border-radius: 5px;
+    display: inline;
+    margin-right: 10px;
+}
 .skillbar .skillbar-title {
     display: inline-block;
     vertical-align: middle
